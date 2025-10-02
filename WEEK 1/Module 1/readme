@@ -1,1 +1,5 @@
+WEEK 1 MODULE 1 VIDEO WISE EXPLAINATION OF TASK
+USE OF GROQ AI AND GROQ EMBEDDINGS INSTEAD OF OPEN AI AND OPEN AI EMBEDDINGS
+USED THE MODEL openai/gpt-oss-120b FOR MOST TASKS
 
+LESSON 1 TRACING BASICS - The @traceable decorator in LangSmith makes it easy to track function calls. It builds a clear “run tree” so you can see how your app runs, check performance, and organize everything with metadata.
