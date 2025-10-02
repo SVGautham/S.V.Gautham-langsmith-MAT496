@@ -3,3 +3,5 @@ USE OF GROQ AI AND GROQ EMBEDDINGS INSTEAD OF OPEN AI AND OPEN AI EMBEDDINGS
 USED THE MODEL openai/gpt-oss-120b FOR MOST TASKS
 
 LESSON 1 TRACING BASICS - The @traceable decorator in LangSmith makes it easy to track function calls. It builds a clear “run tree” so you can see how your app runs, check performance, and organize everything with metadata.
+
+LESSON 2 TYPES OF RUNS - The video shows how to use observability in LangChain with LangSmith. It explains the different run types (LLM, retriever, tool), how to trace and log them, and how to view results in LangSmith. It also covers streaming outputs, adding metadata to track models, and using the LangSmith playground to debug and improve AI workflows.
