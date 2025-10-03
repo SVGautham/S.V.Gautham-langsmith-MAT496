@@ -9,3 +9,5 @@ LESSON 3 EXPERIMENTS - The video shows how to run experiments in LangSmith by co
 LESSON 4 ANALYSING EXPERIMENT RESULTS - The video shows how to use the LangSmith UI to compare experiments. It covers filtering by model or metadata, checking inputs and outputs, reviewing evaluator feedback, and comparing versions side by side to see trade-offs like latency vs accuracy. It highlights how regular experimentation improves AI apps over time. NO CODE GIVEN TO IMPLEMENT.
 
 LESSON 5 PAIRWISE - The video explains pairwise evaluation, where outputs from two experiments are compared to judge which is better. This approach is helpful when direct scoring is hard but side-by-side comparison is easier.
+
+LESSON 6 SUMMARY EVALUATORS - The video introduces summary evaluators, which calculate metrics like precision, recall, and F1 score across an entire experiment. They give a complete picture of overall performance rather than judging single examples.
