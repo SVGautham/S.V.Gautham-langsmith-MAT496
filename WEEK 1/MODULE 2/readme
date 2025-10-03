@@ -1,1 +1,3 @@
+MODULE 2 LANGSMITH, USED GROQ API AND EMBEDDINGS
 
+LESSON 1 DATASETS - The video shows how to create and use datasets in LangSmith for offline testing. It covers importing CSVs, adding examples manually or from real traces, tagging versions, splitting datasets for specific tests, and sharing/exporting them. The goal is to build reliable “golden sets” that help track and improve app performance over time.
